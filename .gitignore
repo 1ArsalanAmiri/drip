@@ -1,0 +1,50 @@
+# -----------------------
+# Python
+# -----------------------
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# -----------------------
+# Virtual Environment
+# -----------------------
+venv/
+ENV/
+env/
+.env/
+
+# -----------------------
+# Django
+# -----------------------
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+node_modules/
+
+# -----------------------
+# IDEs
+# -----------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# -----------------------
+# OS
+# -----------------------
+.DS_Store
+Thumbs.db
